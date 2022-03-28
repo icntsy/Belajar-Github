@@ -1,0 +1,16 @@
+Cara Github
+1. Membuat Repository baru
+2. Salin link Repository
+3. Gitbush dekstop git clone paste link repo
+4. cd nama repo
+5. git remote
+6. copy file yang ingin ditambahkan di folder repo baru
+7. git status
+8. git add .
+9. git commit -m"bebas"
+10. git push
+
+Cara git pull
+git pull
+
+sebelum git push lebih baik git pull terlebih dahulu.
